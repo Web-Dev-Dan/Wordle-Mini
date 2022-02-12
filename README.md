@@ -1,1 +1,1 @@
-# Wordle
+# Wordle Mini
